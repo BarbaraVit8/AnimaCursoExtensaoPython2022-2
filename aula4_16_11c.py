@@ -6,7 +6,7 @@ import sqlite3
 def conectar():
   #2o. passo: Vamos estabelecer uma
   #conexão com o banco de dados
-  conexao = sqlite3.connect("dc_universe.db")
+  conexao = sqlite3.connect("DC_universe.db")
 
   #3o. passo: criar um objeto do tipo cursor
   cursor = conexao.cursor()
