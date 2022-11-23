@@ -1,7 +1,7 @@
 #Exemplo de laço
 
 #Se eu quisesse exibir números de 1 a 10?
-print("Aqui mostramos de maneira 'rústica'")
+print("Aqui mostramos de maneira 'rustica'")
 print("1")
 print("2")
 print("3")
