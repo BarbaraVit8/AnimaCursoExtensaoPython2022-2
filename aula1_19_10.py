@@ -5,7 +5,7 @@ print("Alo mundo!")
 
 # Quando quiser guardar uma String! (Frase)
 
-nome = "Barbara Vitoria"
+nome = "Bárbara Vitória"
 # Quando quiser guardar um numero inteiro
 idade = 19 
 # Exibir o meu nome ( que esta dentro da variavel nome)
