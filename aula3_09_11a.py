@@ -1,4 +1,4 @@
-print("Início da aula 3 (09/11/2023)")
+print("Início da aula 3 (09/11/2022)")
 
 contador = 1
 
