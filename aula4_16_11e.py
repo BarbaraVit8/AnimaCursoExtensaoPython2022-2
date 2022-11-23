@@ -17,7 +17,7 @@ pessoa_id = cur.fetchone()[0]
 if tipo_numerico == "1":
   tipo = "Herói(na)"
 else:
-  tipo = "Vilã(o)"
+  tipo = "Vilão(o)"
 
 sql = f"INSERT INTO pessoas (pessoa_id, nome, nome_civil, tipo) VALUES ({pessoa_id}, '{nome}', '{nome_civil}', '{tipo}')"
 
