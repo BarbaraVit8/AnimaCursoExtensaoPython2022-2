@@ -4,7 +4,7 @@ nome = input("Digite seu nome: ")
 #pede a idade para o usuário "Qual sua idade?"
 idade = int(input("Digite sua idade: "))
 
-#comando de saída..exibir na tela
+#comando de saída..exibir na tela 
 print(f"Boa noite, seu nome é {nome}")
 #exiba "Sua idade é ..."
 print("Sua idade é {}".format(idade))
